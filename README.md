@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a calendar apllication with the ability to save things to do at timer periods and save the information. The user has the option to look at a calendar with updated date and time. The user will also see past time in gray block, current time in red and future time in green. The user can also add information in the time blocks and save it with the ability to refresh and still be there. The user can also clear day to remove all saved imputs and have a empty calendar.
+This is a calendar apllication with the ability to save things to do at time periods and save the information. The user has the option to look at a calendar with updated date and time. The user will also see past time in gray block, current time in red and future time in green. The user can also add information in the time blocks and save it with the ability to refresh and still be there. The user can also clear day to remove all saved imputs and have a empty calendar.
 
 ## Installation
 
@@ -10,9 +10,9 @@ N/A
 
 ## Usage
 
+https://tylerkandarian.github.io/work-day-scheduler/
 
-
-![ScreenShot from deployed site.]()
+![ScreenShot from deployed site.](./images/calendar%20ss.PNG)
 
 ## Credits
 
