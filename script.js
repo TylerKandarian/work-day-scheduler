@@ -90,7 +90,7 @@ $(document).ready(function () {
         localStorage.setItem(hourSpan, JSON.stringify(userInput));
 
     })
-    // Button for clear the day
+
     $("#clearDay").on("click", function () {
         localStorage.clear();
         initPage()
